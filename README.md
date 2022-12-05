@@ -1,6 +1,6 @@
-# Crie seu Evento
+# Create your event
 
-> Web construída no programa Explorer da Rocketseat 
+> Web built in Explorer's program [Rocketseat](https://www.rocketseat.com.br/) 
 
 
 ![preview](./.github/preview.jpeg)
@@ -8,12 +8,12 @@
 ![preview](./.github/preview-finish.jpeg)
 
 
-## 💻 Tecnologias
+## 💻 Technologies
 
-- HTML 
-- CSS
+- HTML5
+- CSS3
 
-## 👤 Contato
+## 👤 Contact
 
 - G-mail: dlplima4@gmail.com
 - Linkedin: https://www.linkedin.com/in/davi-lima-pereira-4007a4208/
